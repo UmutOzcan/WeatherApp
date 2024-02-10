@@ -1,10 +1,12 @@
 # Weather Forecast
 
-![Main](images/Istanbul.png)
+![Main](images/WeatherApp.gif)
 
 ## Weather Forecast with Vanilla.js
 
 This project is a real-time weather forecast application using HTML, CSS, JavaScript.
+
+![Istanbul](images/Istanbul.png)
 
 ### APIs
 
