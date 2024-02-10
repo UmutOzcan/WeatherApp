@@ -12,10 +12,6 @@ This project is a real-time weather forecast application using HTML, CSS, JavaSc
 
 🌆 [Unsplash.com](https://unsplash.com/documentation) API was used for background image
 
-#### Demo
-
-💻 [Live Demo](https://umutozcan.github.io/WeatherApp/) link for review
-
 #### API KEY Issue
 
 ❗ You must add your API KEY `apiKey:"API KEY GOES HERE"` in script.js
